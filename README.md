@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @ Tim-JypS, i'm dev, i'm IT Project Manager
+- 👀 I am interested in any type of software development
+- 🌱 I am currently learning Python, C#, Javascript
+- 💞️ I want to collaborate on any IT project
+- 📫 Leave me a message on dev.tiemoko.coulib@gmail.com
